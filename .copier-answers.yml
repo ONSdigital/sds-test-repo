@@ -1,0 +1,13 @@
+# Changes here will be overwritten by Copier
+# Do not modify this file directly
+# To update the project using the original template, run make copier-update
+_src_path: /home/runner/work/sds-test-repo/sds-test-repo
+default_branch: main
+dependabot_open_pull_requests_limit: 10
+enable_dependabot_version_updates: true
+module_name: sds_test_repo
+package_manager: poetry
+repository_description: sds-test-repo
+repository_name: sds-test-repo
+repository_owner: ONSdigital
+repository_visibility: public
